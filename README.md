@@ -10,7 +10,7 @@ This is not a shallow posting wrapper. It is an operational skill for agents tha
 
 ## Skill folder
 
-The current skill folder name remains `nostr-ops` for compatibility inside the workspace.
+The skill folder name is `nakfire`, matching the public GitHub repo and install experience.
 
 ## Core capabilities
 

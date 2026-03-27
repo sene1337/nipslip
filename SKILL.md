@@ -1,5 +1,5 @@
 ---
-name: nostr-ops
+name: nakfire
 description: 'Operate Nostr from the CLI with nak: publish new notes from temp files, reply with correct NIP-10 threading, quote-post with q tags, delete bad posts, upload media through NIP-96 and NIP-98, tag or mention people with NIP-27 plus p tags, vote on kind 6969 polls with zap plus reply, update profile (kind 0) and relay lists (kind 10002), fetch and inspect events, decode and encode nevent/npub/nprofile links, inspect relay behavior, and debug relay publish or fetch issues. Use for requests like "post to nostr", "reply on nostr", "quote nostr post", "delete nostr post", "nostr media upload", "vote on nostr poll", "tag someone on nostr", "nostr mention", "nostr threading", "update nostr profile", "nostr relay list", "fetch nostr event", "nostr relay debug", "check nostr replies", or any request to use nak for Nostr operations.'
 ---
 

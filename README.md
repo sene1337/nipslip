@@ -1,16 +1,18 @@
-# Nakfire
+# Nipslip
 
 **Nostr Ops for OpenClaw**
 
+*No more NIP slips.*
+
 Full-stack Nostr ops for your agent. Protocol-correct, NIP-aware, no shortcuts.
 
-Nakfire wires the `nak` CLI directly into an OpenClaw skill so an agent can do real Nostr work correctly: publish notes from temp files, reply with proper NIP-10 threading, quote-post with `q` tags, upload media with NIP-96, mention people with NIP-27, vote on polls with zap+reply flow, build zap requests, update profiles and relay lists, fetch events, decode Nostr entities, and debug relay propagation.
+Nipslip wires the `nak` CLI directly into an OpenClaw skill so an agent can do real Nostr work correctly: publish notes from temp files, reply with proper NIP-10 threading, quote-post with `q` tags, upload media with NIP-96, mention people with NIP-27, vote on polls with zap+reply flow, build zap requests, update profiles and relay lists, fetch events, decode Nostr entities, and debug relay propagation.
 
 This is not a shallow posting wrapper. It is an operational skill for agents that need protocol-level control over Nostr.
 
 ## Skill folder
 
-The skill folder name is `nakfire`, matching the public GitHub repo and install experience.
+The skill folder name is `nipslip`, matching the public GitHub repo and install experience.
 
 ## Core capabilities
 
